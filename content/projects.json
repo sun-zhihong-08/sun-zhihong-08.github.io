@@ -1,0 +1,38 @@
+[
+  {
+    "title": "2008 北京奥运会 · 国家游泳队赞助传播",
+    "description": "奥运期间为国家游泳队赞助商操盘全案公关传播，覆盖电视、报纸、网络全媒体渠道，最大化品牌曝光价值。",
+    "image": "/images/media-images/olympic.jpg",
+    "tags": ["体育营销", "全媒体传播"]
+  },
+  {
+    "title": "2010 土豆网 · 南非世界杯直播",
+    "description": "土豆网世界杯直播权益全案传播，涵盖预热造势、赛事期间热点追踪、赛后长尾传播，打造视频平台体育内容标杆。",
+    "image": "/images/media-images/worldcup2010.jpg",
+    "tags": ["赛事传播", "IP 运营"]
+  },
+  {
+    "title": "爱学习教育集团 · 品牌战略升级",
+    "description": "主导「高思教育」全面升级为「爱学习教育集团」，完成品牌定位、视觉体系、传播策略全链路升级，获腾讯 D+ 轮战略投资。",
+    "image": "/images/media-images/education.jpg",
+    "tags": ["品牌升级", "战略投资"]
+  },
+  {
+    "title": "AI 赋能新媒体 · 小红书冷启动",
+    "description": "借助豆包、剪映等 AI 工具搭建内容生产链路，操盘小红书账号从零起号，8 个月涨粉 1 万+，获米其林主厨互关。",
+    "image": "/images/media-images/ai-tech.jpg",
+    "tags": ["AI 工具", "新媒体"]
+  },
+  {
+    "title": "蚂蚁短租 · 品质住宿标准定义",
+    "description": "策划「优质住宿计划」标杆事件营销，率先在短租行业定义品质住宿标准，央视/新华社等权威媒体全覆盖传播。",
+    "image": "/images/media-images/homestay.jpg",
+    "tags": ["行业标准", "事件营销"]
+  },
+  {
+    "title": "去哪儿网 · 经典品牌口号",
+    "description": "为核心产品线打造「总有你想要的低价」品牌口号并沿用至今；策划「聪明旅行家」品牌活动，获百度战略投资媒体关注。",
+    "image": "/images/media-images/travel.jpg",
+    "tags": ["品牌口号", "战略合作"]
+  }
+]

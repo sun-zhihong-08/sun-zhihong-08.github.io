@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "Target",
+    "title": "战略驱动",
+    "description": "以业务目标为导向的品牌传播，不做无意义的曝光"
+  },
+  {
+    "icon": "Handshake",
+    "title": "信任构建",
+    "description": "通过真实内容和深度报道建立品牌公信力"
+  },
+  {
+    "icon": "Zap",
+    "title": "AI 赋能",
+    "description": "拥抱 AI 工具，用技术提效内容生产与数据分析"
+  },
+  {
+    "icon": "TrendingUp",
+    "title": "品效合一",
+    "description": "品牌声量与业务增长同步，用数据验证传播价值"
+  }
+]
