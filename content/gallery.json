@@ -52,5 +52,94 @@
     "tag": "人物合影",
     "caption": "学术文化活动合影",
     "wide": false
+  },
+  {
+    "tag": "行业峰会",
+    "caption": "2019 TAL AI Summit 好未来",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo15.jpg",
+    "tag": "文化活动",
+    "caption": "国家大剧院·意大利斯卡拉芭蕾舞团",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo16.jpg",
+    "tag": "媒体合作",
+    "caption": "CCTV 演播室合作",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo17.jpg",
+    "tag": "旅行",
+    "caption": "西藏经幡高原",
+    "wide": true
+  },
+  {
+    "image": "/images/work-photo18.jpg",
+    "tag": "品牌代言",
+    "caption": "去哪儿网骆驼玩偶·黄山",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo19.jpg",
+    "tag": "文化旅行",
+    "caption": "塔尔寺·青海",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo20.jpg",
+    "tag": "运动",
+    "caption": "骑行·户外",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo21.jpg",
+    "tag": "文化旅行",
+    "caption": "罗马斗兽场",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo22.jpg",
+    "tag": "文化旅行",
+    "caption": "米兰大教堂",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo23.jpg",
+    "tag": "运动",
+    "caption": "洛杉矶·湖人球馆",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo24.jpg",
+    "tag": "旅行",
+    "caption": "珠峰观景台",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo25.jpg",
+    "tag": "文化旅行",
+    "caption": "比萨斜塔",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo26.jpg",
+    "tag": "生活",
+    "caption": "1984·文化生活",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo27.jpg",
+    "tag": "旅行",
+    "caption": "潜水·海洋",
+    "wide": false
+  },
+  {
+    "image": "/images/work-photo28.jpg",
+    "tag": "摄影",
+    "caption": "自然摄影·蝴蝶",
+    "wide": false
   }
 ]
