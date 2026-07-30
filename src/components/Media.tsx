@@ -17,6 +17,7 @@ interface MediaProps {
     tag: string;
     caption: string;
     wide: boolean;
+    position?: string;
   }>;
 }
 
@@ -147,6 +148,7 @@ export default function Media({ data, gallery }: MediaProps) {
                     alt={photo.caption}
                     fill
                     className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    style={{ objectPosition: photo.position || 'center' }}
                     loading="lazy"
                     sizes={photo.wide ? '800px' : '400px'}
                   />

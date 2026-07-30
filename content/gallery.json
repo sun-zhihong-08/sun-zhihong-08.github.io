@@ -33,7 +33,8 @@
     "image": "/images/work-photo11.jpg",
     "tag": "个人形象",
     "caption": "职业形象照",
-    "wide": false
+    "wide": false,
+    "position": "top"
   },
   {
     "image": "/images/work-photo1.jpg",
