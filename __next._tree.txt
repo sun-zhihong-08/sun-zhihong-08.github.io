@@ -1,3 +1,3 @@
-:HL["/_next/static/chunks/12kff8uyje0yh.css","style"]
+:HL["/_next/static/chunks/0nspmfva.lbm-.css","style"]
 :HL["/images/hero-portrait.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"bkEcr4MpnNbUGZr6366Pz"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"GOFS39TOFDoEDBl-_UPfQ"}
