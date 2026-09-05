@@ -1,3 +1,3 @@
 :HL["/_next/static/chunks/0jrhd3w~6lzhd.css","style"]
 :HL["/images/hero-portrait.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"DpWvvDxm4vlYsg7C2kT96"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"HSlrhqzHXnjOBq4xd4BDO"}
